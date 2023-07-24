@@ -12,7 +12,7 @@ Official PyTorch implementation of DreaMR described in the [paper](https://arxiv
 
 ### Training of the Diffusion Prior
 
-<img src="./Assets/second_figure.png">
+<img src="./Assets/second_figure.png" width="800">
 
 ## Running
 
@@ -41,6 +41,6 @@ Also based on the dataset your using, set the correct variables (nOfClasses, dyn
 
 ### Biomarker Identification
 
-<img src="./Assets/hcprest_biomarker.png">
+<img src="./Assets/hcprest_biomarker.png" width="800">
 
-## Coming Soon...# DreaMR
+## Coming Soon...
